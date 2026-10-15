@@ -1,5 +1,5 @@
 def is_even(number):
-    return number % 2 == 0
+    return number % 2 == 1
 
 def safe_divide(a, b):
     if b == 0:
